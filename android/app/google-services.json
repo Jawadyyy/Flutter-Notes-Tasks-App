@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525253198028",
+    "project_id": "loginflt",
+    "storage_bucket": "loginflt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525253198028:android:8379317bdae10e2e89c269",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lLM1U4N-NZYsH8CuQxixiya7_0F2dIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
